@@ -2,7 +2,7 @@
 - 👀 I’m interested in food
 - 🌱 I’m currently learning DSA, Node.Js, MongoDb, and other programming development stuff
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 📫 How to reach me .. LinkedIn khyatichouhan 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm swiftie.
 
